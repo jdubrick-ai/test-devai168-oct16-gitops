@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-devai168-oct16-database-config
+data:
+  VECTORDB_HOST: "test-devai168-oct16-database"
+  VECTORDB_PORT: ""
